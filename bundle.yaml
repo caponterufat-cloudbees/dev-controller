@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "caponterufat-cloudbees-dev-controller"
+description: "CloudBees CI configuration bundle for the caponterufat-cloudbees dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/caponterufat-cloudbees/dev-controller"
+parent: "base"
